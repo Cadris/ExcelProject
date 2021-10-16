@@ -1,4 +1,4 @@
-This is a Eclipse Project.
+This is a Eclipse Project. (Maven Project)
 
 Dependency:
 
